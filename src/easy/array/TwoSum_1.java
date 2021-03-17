@@ -14,6 +14,8 @@ public class TwoSum_1 {
         int target = 6;
 
         System.out.println(Arrays.toString(ts.twoSum(nums, target)));
+
+        Math.random();
     }
 
     /**
