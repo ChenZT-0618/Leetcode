@@ -9,7 +9,7 @@ import java.util.HashMap;
  *
  * @author ChenZT
  */
-public class offer_03_findRepeatNumber {
+public class Offer03_findRepeatNumber {
     public static void main(String[] args) {
         int[] nums = {2, 3, 1, 0, 2, 5, 3};
         System.out.println(findRepeatNumber2(nums));
